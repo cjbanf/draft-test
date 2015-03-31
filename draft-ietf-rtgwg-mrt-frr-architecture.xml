@@ -668,6 +668,8 @@ described in <xref target="I-D.ietf-mpls-ldp-multi-topology"/>.
 The MRT-specific LDP extensions required to support this option are described in
 <xref target="I-D.atlas-mpls-ldp-mrt"/>. </t>
 
+<t> I am also proposing this additional paragraph.</t>
+
 </section>
 
 <section anchor="sec_option_1b" title="Topology and FEC encoded using a two label stack (Option 1B)">
