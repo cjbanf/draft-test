@@ -293,6 +293,8 @@ time between single failures is long enough for a network to
 reconverge and start forwarding on the new shortest paths.  That does
 not imply that the network will only experience one failure or change.</t>
 
+<t> This is my second addition.</t>
+
 <t>It is straightforward to analyze a particular network topology for
 coverage.  However, a real network does not always have the same
 topology.  For instance, maintenance events will take links or nodes
